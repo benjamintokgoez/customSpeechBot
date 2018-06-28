@@ -32,6 +32,11 @@ namespace Microsoft.Bot.Sample.EchoBot
             });
         }
 
+        public void testGit(){
+            Trace.TraceError("Change");
+
+
+        }
 
         /// <summary>
         /// POST: api/Messages
